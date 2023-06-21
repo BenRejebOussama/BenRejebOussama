@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oussama Ben Rejeb
 - 👀 I’m interested in python programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Go & Rust
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me obr.oussama.rejeb@gmail.com
 
